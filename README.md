@@ -1,4 +1,4 @@
-![CR-1](https://github.com/user-attachments/assets/5b3f4530-df7d-4f27-abe2-4a9259ddf62a)
+![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
 
 ## 🥁 CarnaCode 2026 - Desafio 03 - Factory Method
 
